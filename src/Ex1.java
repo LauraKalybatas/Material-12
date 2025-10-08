@@ -1,3 +1,5 @@
+//referente ao exercicio 1 da apostila
+
 import java.util.Scanner;
 
 public class Ex1 {
